@@ -1,0 +1,231 @@
+body {
+    background-color: #ECF2F8;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 5% 2%;
+}
+
+.leftContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 60%;
+}
+.rightContainer {
+    width: 40%;
+}
+
+p, h5 {
+    font-size: 13px;
+    opacity: 70%
+}
+img {
+    float: left;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin: 5% 5%;
+}
+
+.daniel {
+    height: 50%;
+    width: 60%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    border: solid 1px;
+    background-color: hsl(263, 55%, 52%);
+}
+.daniel .title1 {
+    margin-left: 5%;
+    margin-top: 4.5%;
+    margin-bottom: 3.5%;
+    color: white;
+    font-size: 10px;
+    margin-bottom: -5px;
+}
+.daniel .title2 {
+    margin-bottom: 3.5%;
+    margin-left: 10%;
+    color: white;
+    font-size: 10px;
+    opacity: 50%;
+}
+
+.daniel h1 {
+    font-size: 15px;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+.daniel p {
+    color: hsl(0, 0%, 81%);
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 12px;
+}
+
+
+.jonathan {
+    height: 50%;
+    width: 25%;
+    margin-left: 3%;
+    border-radius: 10px;
+    border: solid 1px;
+    background-color: hsl(217, 19%, 35%);
+}
+
+.jonathan .title1 {
+    margin-left: 5%;
+    margin-top: 3.5%;
+    margin-bottom: 3.5%;
+    color: white;
+    font-size: 10px;
+    margin-bottom: -5px;
+}
+.jonathan .title2 {
+    margin-bottom: 3.5%;
+    margin-left: 10%;
+    color: white;
+    font-size: 10px;
+    opacity: 50%;
+}
+
+.jonathan h1 {
+    font-size: 15px;
+    color: white;
+    margin-left: 5%;
+    margin-right: 3%;
+}
+
+.jonathan p {
+    color: hsl(0, 0%, 81%);
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 12px;
+}
+
+.jeanette {
+    height: 50%;
+    width: 25%;
+    border-radius: 10px;
+    border: solid 1px white;
+    background-color: white;
+}
+
+.jeanette .title1 {
+    margin-left: 5%;
+    margin-top: 3.5%;
+    margin-bottom: 3.5%;
+    color: white;
+    font-size: 10px;
+    margin-bottom: -5px;
+    color: black;
+}
+.jeanette .title2 {
+    margin-bottom: 3.5%;
+    margin-left: 10%;
+    color: white;
+    font-size: 10px;
+    opacity: 50%;
+    color: black;
+}
+
+.jeanette h1 {
+    font-size: 15px;
+    color: white;
+    margin-left: 5%;
+    margin-right: 3%;
+    color: black;
+}
+
+.jeanette p {
+    color: black;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 12px;
+}
+
+.patrick {
+    height: 50%;
+    width: 60%;
+    margin-left: 3%;
+    border-radius: 10px;
+    border: solid 1px white;
+    background-color: hsl(219, 29%, 14%);
+}
+
+.patrick .title1 {
+    margin-left: 5%;
+    margin-top: 4.5%;
+    margin-bottom: 4.5%;
+    color: white;
+    font-size: 10px;
+    margin-bottom: -5px;
+}
+.patrick .title2 {
+    margin-bottom: 3.5%;
+    margin-left: 10%;
+    color: white;
+    font-size: 10px;
+    opacity: 50%;
+}
+
+.patrick h1 {
+    font-size: 15px;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5.5%;
+}
+
+.patrick p {
+    color: black;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: hsl(210, 46%, 95%);
+    font-size: 12px;
+}
+
+.kira {
+    height: 108%;
+    width: 40%;
+    border-radius: 10px;
+    border: solid 1px white;
+    background-color: white;
+}
+
+.kira .title1 {
+    margin-left: 5%;
+    margin-top: 3.5%;
+    margin-bottom: 3.5%;
+    color: #19202D;
+    font-size: 10px;
+    margin-bottom: -5px;
+}
+.kira .title2 {
+    margin-bottom: 3.5%;
+    margin-left: 10%;
+    color: #19202D;
+    font-size: 10px;
+    opacity: 50%;
+}
+
+.kira h1 {
+    font-size: 15px;
+    color: #19202D;
+    margin-left: 5%;
+    margin-right: 3%;
+}
+
+.kira p {
+    color: black;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 12px;
+}
